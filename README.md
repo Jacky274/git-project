@@ -26,4 +26,7 @@
  - 上傳產品圖片
  - 圖表(chart JS)
  - 地圖
- - Restful api
+ - AJAX
+ - Restful API
+
+## 專案截圖
