@@ -32,3 +32,10 @@
 ## 專案截圖
 ## 首頁
 ![首頁](https://github.com/Jacky274/git-project/blob/main/example/index.PNG)
+## 各式產品頁面
+![產品](https://github.com/Jacky274/git-project/blob/main/example/product1.PNG)
+![產品](https://github.com/Jacky274/git-project/blob/main/example/product2.PNG)
+![產品](https://github.com/Jacky274/git-project/blob/main/example/product3.PNG)
+![產品](https://github.com/Jacky274/git-project/blob/main/example/product4.PNG)
+![產品](https://github.com/Jacky274/git-project/blob/main/example/product5.PNG)
+![產品](https://github.com/Jacky274/git-project/blob/main/example/product6.PNG)
